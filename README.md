@@ -13,7 +13,8 @@
   * [week1-1 - Initialization.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week1-1%20-%20Initialization.ipynb)
   * [week1-2 - Regularization.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week1-2%20-%20Regularization.ipynb)
   * [week1-3 - Gradient+Checking+v1.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week1-3%20-%20Gradient%2BChecking%2Bv1.ipynb)
-  * ​
+  * [week2 - Optimization+methods.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week2%20-%20Optimization%2Bmethods.ipynb)
+  * [week3 - Tensorflow+Tutorial.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week3%20-%20Tensorflow%2BTutorial.ipynb)
 
 
 
