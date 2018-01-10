@@ -1,6 +1,10 @@
 
 
-这个专项课程包含5门课，陆续会上传所有编程作业我提交的答案。当然会拿到100分再上传。😊
+这个专项课程包含5门课，陆续会上传所有编程作业我提交的答案。😊
+
+自己整理的代码，放在这个文件夹里[代码整理-DNN算法-Python实现](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/tree/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E7%90%86-DNN%E7%AE%97%E6%B3%95-Python%E5%AE%9E%E7%8E%B0)。
+
+----
 
 * **Course 1 - Neural Networks and Deep Learning**
   * [week2 - Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%201%20-%20programming%20assignments/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)
