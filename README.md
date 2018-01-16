@@ -7,7 +7,6 @@
   - [笔记2 -- DNN深度神经网络实现.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E7%90%86-DNN%E7%AE%97%E6%B3%95-Python%E5%AE%9E%E7%8E%B0/%E7%AC%94%E8%AE%B02%20--%20DNN%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0.ipynb)
 
 
-
 ----
 
 * **Course 1 - Neural Networks and Deep Learning**
@@ -23,12 +22,12 @@
   * [week1-3 - Gradient Checking v1.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week1-3%20-%20Gradient%20Checking%20v1.ipynb)
   * [week2 - Optimization methods.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week2%20-%20Optimization%20methods.ipynb)
   * [week3 - Tensorflow Tutorial.ipynb](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%202%20-%20programming%20assignments/week3%20-%20Tensorflow%20Tutorial.ipynb)
+* **Course 3 - Structuring Machine Learning Projects**
+  - [Bird recognition in the city of Peacetopia (case study)](https://github.com/niudd/deeplearning_Andrew_Ng_Coursera/blob/master/Course%203%20-%20assignments/week1.pdf)
+  - ​
 
 
 
-**Course 3 - Structuring Machine Learning Projects**
-
-TBC.
 
 
 
